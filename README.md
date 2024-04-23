@@ -14,23 +14,21 @@ Here are some screenshots of our awesome project:
 
 ### Home
 
-![Add Task](images/home-page.png)
+![Add Task](home.png)
 
 ### Add Task
 
-![Add Task](images/dashboard.png)
+![Add Task](add_task.png)
 
 ## Remove Task
-![Remove Task](images/dashboard.png)
+![Remove Task](remove_task.png)
 
 To install this project, follow these steps:
 
 1. Clone the repository
-2. Install dependencies
-3. Run the project
+
+2. Run the project
 
 ```bash
 git clone https://github.com/your-username/your-repository.git
-cd your-repository
-npm install
-npm start
+
